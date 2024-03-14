@@ -44,7 +44,7 @@ function Footer() {
                     <div className="lg:flex lg:justify-between">
                         <div className="mb-6 lg:mb-0">
                             <Link href="/" className="flex items-center w-fit">
-                                <p className={`aniplay self-center text-3xl font-medium whitespace-nowrap dark:text-white`}>ANIPLAY</p>
+                                <p className={`aniplay self-center text-3xl font-medium whitespace-nowrap dark:text-white`}>MAKIMA</p>
                             </Link>
                             <p className="font-karla lg:text-[0.8rem] text-[0.7rem] text-[#ffffffb2] lg:w-[520px]">
                                 This site does not store any files on our server, we are linked

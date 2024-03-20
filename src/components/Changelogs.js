@@ -92,7 +92,7 @@ export default function Changelogs() {
                                         <div className="flex gap-3 items-center">
                                             {/* Github Icon */}
                                             <Link
-                                                href="https://github.com/Luckyhv/aniplay"
+                                                href="https://github.com/instatechhd/aniplay"
                                                 target="_blank"
                                                 className="w-5 h-5 hover:opacity-75"
                                             >
@@ -122,7 +122,7 @@ export default function Changelogs() {
                                             </Link>
                                             {/* Discord Icon */}
                                             <Link
-                                                href="https://discord.gg/aW5P4W94ZS"
+                                                href="https://discord.gg/#"
                                                 target="_blank"
                                                 className="w-6 h-6 hover:opacity-75"
                                             >

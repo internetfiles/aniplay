@@ -88,7 +88,7 @@ export default async function RootLayout({ children }) {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-W661D2QCV3');`}
+  gtag('config', 'G-DXKRYT44CQ');`}
       </Script>
       <head>
         <meta name="google-site-verification" content="9Cj5Gd0-OuGDtGb4HpRqNfBXy3FuFCcFNWSvTPOlTzE" />

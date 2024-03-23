@@ -79,7 +79,7 @@ export default async function RootLayout({ children }) {
   return (
     <html lang="en" className='dark text-foreground bg-background' suppressHydrationWarning={true}>
       <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-W661D2QCV3"
+        src="https://www.googletagmanager.com/gtag/js?id=G-DXKRYT44CQ"
         strategy="afterInteractive"
       />
       <Script id="google-analytics" strategy="afterInteractive">

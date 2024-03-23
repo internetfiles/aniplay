@@ -91,7 +91,7 @@ export default async function RootLayout({ children }) {
   gtag('config', 'G-DXKRYT44CQ');`}
       </Script>
       <head>
-        <meta name="google-site-verification" content="9Cj5Gd0-OuGDtGb4HpRqNfBXy3FuFCcFNWSvTPOlTzE" />
+        <meta name="google-site-verification=sZKjMoCcBuRF5ForhcIgHcbSAqy4fpShplMPsEYG40A" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png" />
         {/* <script src="https://kit.fontawesome.com/c189d5d7c5.js" crossOrigin="anonymous" async></script> */}
